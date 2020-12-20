@@ -3,7 +3,29 @@ import CommonUtils from '../view/common_utils.js';
 export default function DatepickerController() {
   const commonUtils = new CommonUtils();
 
-  this.getDatepickerInputValues = () => {
+  this.addEventToButton = () => {
+    const button = commonUtils.getById('date-button');
+
+    button.addEventListener('click', () => {
+      const result = getDatepickerInputValues();
+
+      if (isValidInput(result)) {
+        //crawler();
+      }
+
+    })
+  }
+
+  const isValidInput = (result) => {
+    if (result[0] >= result[1]) {
+      alert('시작날짜와 종료날짜 순서가 바뀌었습니다.');
+      return false;
+    }
+
+    return true;
+  }
+
+  const getDatepickerInputValues = () => {
     const inputType = ['start', 'end'];
     const values = [];
 
@@ -25,5 +47,5 @@ export default function DatepickerController() {
     return commonUtils.getById(idName).value;
   }
 
-  this.getDatepickerInputValues();
+  this.addEventToButton();
 }

@@ -6,8 +6,7 @@ export default function EBSAudioCrawler() {
 
   this.getDateInput = () => {
     new DatepickerView();
-    const datepicker = new DatepickerController();
-    const dateInput = datepicker.getDatepickerInputValues();
+    new DatepickerController();
   }
 
   this.getDateInput();
