@@ -62,4 +62,16 @@ export default class CommonView {
   alertError = (errorMessage) => {
     alert(errorMessage);
   };
+
+  createImage(src, width, height, alt, parent) {
+    const img = this.createElement('IMG');
+
+    img.src = src;
+    this._commonUtils.setAttribute(img, 'width', width);
+    this._commonUtils.setAttribute(img, 'height', height);
+    this._commonUtils.setAttribute(img, 'alt', alt);
+    this._commonUtils.appendToVarName(img, parent);
+    img.style.transform = 'translateY(4px)';
+    img.style.paddingLeft = '3px';
+  }
 }

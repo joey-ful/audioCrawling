@@ -1,0 +1,26 @@
+<svg width="69" height="64" viewBox="0 0 69 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="9" y="59" width="11" height="5" rx="1" fill="#A2B5C6"/>
+<rect x="48" y="59" width="11" height="5" rx="1" fill="#A2B5C6"/>
+<path d="M10 19.164L30.6349 10.3114L31.6607 12.5852L11.3676 22.1957L10 19.164Z" fill="#BECCD9"/>
+<path d="M30.6392 10.7016L52.79 1.1652L53.1319 1.92313L31.323 12.2174L30.6392 10.7016Z" fill="#BECCD9"/>
+<path d="M53.2374 2.28621C53.6586 2.0949 53.8449 1.59839 53.6536 1.17721V1.17721C53.4623 0.75604 52.9658 0.569696 52.5446 0.761002L51.5738 1.20198L52.2666 2.72718L53.2374 2.28621Z" fill="#A2B5C6"/>
+<rect y="22" width="69" height="40" rx="5" fill="#343F54"/>
+<rect x="7" y="29" width="26" height="26" rx="5" fill="#4B5D78"/>
+<rect x="37" y="29" width="24" height="12" rx="5" fill="#BECCD9"/>
+<rect x="10" y="32" width="20" height="20" rx="10" fill="#6D8499"/>
+<rect x="15" y="37" width="10" height="10" rx="5" fill="#A2B5C6"/>
+<rect x="48" y="43" width="12" height="12" rx="6" fill="#A2B5C6"/>
+<rect x="50" y="45" width="8" height="8" rx="4" fill="#BECCD9"/>
+<rect x="40" y="45" width="5" height="3" rx="1.5" fill="#E27A7A"/>
+<rect x="40" y="50" width="5" height="3" rx="1.5" fill="#55B5D3"/>
+<line x1="37" y1="34.65" x2="61" y2="34.65" stroke="#343F54" stroke-width="0.7"/>
+<line x1="40.35" y1="35" x2="40.35" y2="37" stroke="#343F54" stroke-width="0.7"/>
+<line x1="46.35" y1="35" x2="46.35" y2="38" stroke="#343F54" stroke-width="0.7"/>
+<line x1="49.35" y1="35" x2="49.35" y2="37" stroke="#343F54" stroke-width="0.7"/>
+<line x1="43.35" y1="35" x2="43.35" y2="37" stroke="#343F54" stroke-width="0.7"/>
+<line x1="52.35" y1="35" x2="52.35" y2="37" stroke="#343F54" stroke-width="0.7"/>
+<line x1="55.35" y1="35" x2="55.35" y2="37" stroke="#343F54" stroke-width="0.7"/>
+<line x1="58.35" y1="35" x2="58.35" y2="38" stroke="#343F54" stroke-width="0.7"/>
+<line x1="47.2" y1="29" x2="47.2" y2="41" stroke="#E27A7A" stroke-width="0.4"/>
+<path d="M9 20.5C9 19.1193 10.1193 18 11.5 18V18C12.8807 18 14 19.1193 14 20.5V22H9V20.5Z" fill="#A2B5C6"/>
+</svg>

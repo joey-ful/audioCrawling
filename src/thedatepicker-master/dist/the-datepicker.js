@@ -2177,8 +2177,10 @@ var TheDatepicker;
                 this.yearElement_.style.display = '';
                 return;
             }
-            var minYear = this.options_.getMinDate_().getFullYear();
-            var maxYear = this.options_.getMaxDate_().getFullYear();
+            // var minYear = this.options_.getMinDate_().getFullYear();
+            // var maxYear = this.options_.getMaxDate_().getFullYear();
+            var minYear = '2006';
+            var maxYear = new Date().getFullYear();
             var range = this.calculateDropdownRange_(currentYear, minYear, maxYear);
             var options = this.yearSelect_.getElementsByTagName('option');
             var diff = this.calculateDropdownDiff_(options, range, function (value) {

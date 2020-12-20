@@ -1,0 +1,16 @@
+<svg width="54" height="44" viewBox="0 0 54 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.5 0.5H53.5V43.5H0.5V0.5Z" stroke="#8692A5"/>
+<rect x="6.25" y="15.25" width="10.5" height="7.5" stroke="#8692A5" stroke-width="0.5"/>
+<path d="M27.25 15.25H37.75V22.75H27.25V15.25Z" stroke="#8692A5" stroke-width="0.5"/>
+<path d="M6.25 22.75H16.75V30.25H6.25V22.75Z" stroke="#8692A5" stroke-width="0.5"/>
+<path d="M6.25 30.25H16.75V37.75H6.25V30.25Z" stroke="#8692A5" stroke-width="0.5"/>
+<path d="M27.25 22.75H37.75V30.25H27.25V22.75Z" stroke="#8692A5" stroke-width="0.5"/>
+<path d="M27.25 30.25H37.75V37.75H27.25V30.25Z" stroke="#8692A5" stroke-width="0.5"/>
+<path d="M16.75 15.25H27.25V22.75H16.75V15.25Z" stroke="#8692A5" stroke-width="0.5"/>
+<path d="M37.75 15.25H48.25V22.75H37.75V15.25Z" stroke="#8692A5" stroke-width="0.5"/>
+<path d="M16.75 22.75H27.25V30.25H16.75V22.75Z" stroke="#8692A5" stroke-width="0.5"/>
+<path d="M16.75 30.25H27.25V37.75H16.75V30.25Z" stroke="#8692A5" stroke-width="0.5"/>
+<path d="M37.75 22.75H48.25V30.25H37.75V22.75Z" stroke="#8692A5" stroke-width="0.5"/>
+<path d="M37.75 30.25H48.25V37.75H37.75V30.25Z" stroke="#8692A5" stroke-width="0.5"/>
+<path d="M0 0H54V9H0V0Z" fill="#8692A5"/>
+</svg>
