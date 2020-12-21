@@ -10,7 +10,7 @@ export default function DatepickerController() {
       const result = getDatepickerInputValues();
 
       if (isValidInput(result)) {
-        //crawler();
+        console.log(result);
       }
 
     })
